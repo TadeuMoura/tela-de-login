@@ -1,0 +1,16 @@
+body{
+    background-color: #e4e4e4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:hover{
+    background-color: #e4630d;
+    
+}
+
+@font-face {
+    font-family: label;
+    src: url('../assets/fonts/CircularSpUIv3T-Bold.woff2');
+}
